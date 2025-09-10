@@ -10,6 +10,7 @@ The standard OpenCV library includes built-in functions for ArUco marker detecti
 ### Marker Generation
 
 The target marker used for this project is an ArUco code generated using a public web tool. The code is a `4x4` binary matrix with an ID of `0`. This is a common and easily reproducible type of marker, making the dataset creation process straightforward.
+
 <img width="208" height="222" alt="Screenshot 2025-09-10 130308" src="https://github.com/user-attachments/assets/640c3604-f3e9-44c4-b828-23836378569e" />
 
 ### Dataset and Training
